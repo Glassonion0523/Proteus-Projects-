@@ -1,4 +1,4 @@
-⚡ Three-Phase Voltage Measurement System Using Arduino
+#⚡ Three-Phase Voltage Measurement System Using Arduino
 
 Voltage transformers and resistor divider circuits are used to safely reduce the phase voltages to levels suitable for Arduino analog inputs. The Arduino processes the measured values and displays the voltage of each phase individually on the LCD.
 
