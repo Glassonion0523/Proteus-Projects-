@@ -1,4 +1,5 @@
- 3phase voltage measuring circuit
+# 3phase voltage measuring circuit
+
 Voltage transformers and resistor divider circuits are used to safely reduce the phase voltages to levels suitable for Arduino analog inputs. The Arduino processes the measured values and displays the voltage of each phase individually on the LCD.
 
 The project was developed to strengthen my understanding of electrical measurement systems, three-phase power systems, and embedded monitoring applications.
