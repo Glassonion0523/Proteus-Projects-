@@ -52,7 +52,7 @@ Through this project, I learned:
 
 ## Author
 
-**Adhan Lenin**
+**Adhan**
 B.Tech Mechatronics Engineering | 4th Year Student
 
 This project is part of my Proteus learning journey, where I regularly build and upload simulations to improve my practical knowledge of electronics and embedded systems.
